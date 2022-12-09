@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
+	<title>sati - nieve</title>
+	<subtitle>Debemos tomar en cuenta cada dia de nuestras vidas.</subtitle>
+	<link href="https://sati.blog/tags/nieve/atom.xml" rel="self" type="application/atom+xml"/>
+  <link href="https://sati.blog"/>
+	<generator uri="https://www.getzola.org/">Zola</generator>
+	<updated>2022-12-08T00:00:00+00:00</updated>
+	<id>https://sati.blog/tags/nieve/atom.xml</id>
+	<entry xml:lang="es">
+		<title>¿Por qué la nieve es blanca?</title>
+		<published>2022-12-08T00:00:00+00:00</published>
+		<updated>2022-12-08T00:00:00+00:00</updated>
+		<link rel="alternate" href="https://sati.blog/por-que-la-nieve-es-blanca/" type="text/html"/>
+		<id>https://sati.blog/por-que-la-nieve-es-blanca/</id>
+		<content type="html">&lt;p&gt;Desde niños nos fascina lo divertida que es la nieve, hacer muñecos de nieve y
+jugar a batallas interminables con bolas de nieve, si embargo no sabemos el por
+qué del colo blanquecino de la nieve.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;cristales-de-hielo&quot;&gt;Cristales de hielo&lt;&#x2F;h3&gt;
+&lt;picture&gt;
+  &lt;source srcset=&quot;https:&#x2F;&#x2F;sati.blog&#x2F;por-que-la-nieve-es-blanca&#x2F;snow-crystal.jpg&quot; type=&quot;img&#x2F;jpg&quot; &#x2F;&gt;
+  &lt;img src=&quot;snow-crystal.jpg&quot; alt=&quot;Cristal de hielo&quot; width=&quot;640&quot; height=&quot;480&quot; &#x2F;&gt;
+&lt;&#x2F;picture&gt;
+&lt;p&gt;Los cristales de hielo se forman a partir de la congelación del agua y si se
+encuentra en una forma compacta esta se vuelve translúcida, con una 
+difuminación distinta en cada caso.&lt;&#x2F;p&gt;
+&lt;p&gt;Todo depende de la calidad del agua, si esta tiene pocas impurezas el hielo 
+será más translúcido.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;el-todo-es-mucho-mas-que-sus-partes&quot;&gt;El todo es mucho más que sus partes&lt;&#x2F;h3&gt;
+&lt;p&gt;El hielo al estar en forma de bloque permite el paso de la luz hasta cierto
+punto es por eso que se torna translúcido, sin embargo la nieve o en general
+cualquier cristal fragmentado, dividido en millones de partes, hacen muy difícil
+el paso de la luz ya que la luz choca contra cada una de estas partes, de esa
+forma se difumina en todo el camino.&lt;&#x2F;p&gt;
+&lt;p&gt;Es por eso que la luz rebota más en la nieve que en el hielo, que resulta en un
+color blanquecino.&lt;&#x2F;p&gt;
+</content>
+	</entry>
+</feed>

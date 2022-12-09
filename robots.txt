@@ -1,0 +1,4 @@
+Sitemap: https://sati.blog/sitemap.xml
+User-Agent: *
+Allow: /
+Host: https://sati.blog

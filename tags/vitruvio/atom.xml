@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
+	<title>sati - vitruvio</title>
+	<subtitle>Debemos tomar en cuenta cada dia de nuestras vidas.</subtitle>
+	<link href="https://sati.blog/tags/vitruvio/atom.xml" rel="self" type="application/atom+xml"/>
+  <link href="https://sati.blog"/>
+	<generator uri="https://www.getzola.org/">Zola</generator>
+	<updated>2022-12-03T00:00:00+00:00</updated>
+	<id>https://sati.blog/tags/vitruvio/atom.xml</id>
+	<entry xml:lang="es">
+		<title>¿Que tienen en comun las construcciones?</title>
+		<published>2022-12-03T00:00:00+00:00</published>
+		<updated>2022-12-03T00:00:00+00:00</updated>
+		<link rel="alternate" href="https://sati.blog/que-tienen-en-comun-las-construcciones/" type="text/html"/>
+		<id>https://sati.blog/que-tienen-en-comun-las-construcciones/</id>
+		<content type="html">&lt;p&gt;Desde que comenzamos a explorar el mundo, observamos por ejemplo las casas del
+vecindario y notamos que tienen mucho en común, si vamos a otro sector de la
+ciudad más adinerado pasara lo mismo, si salimos del país, obtendremos el mismo
+resultado, un grupo de casas parecido tras otro, quizás construido con distintos
+materiales o más atractivas o más practicas. Este fenómeno se explicará a
+continuación.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;equilibrio&quot;&gt;Equilibrio&lt;&#x2F;h3&gt;
+&lt;picture&gt;
+  &lt;source srcset=&quot;https:&#x2F;&#x2F;sati.blog&#x2F;que-tienen-en-comun-las-construcciones&#x2F;vitruvius.jpg&quot; type=&quot;img&#x2F;jpg&quot; &#x2F;&gt;
+  &lt;img src=&quot;vitruvius.jpg&quot; alt=&quot;Representación de la entrega De arquitectura a Augustus&quot; width=&quot;640&quot; height=&quot;480&quot; &#x2F;&gt;
+&lt;&#x2F;picture&gt;
+&lt;p&gt;Esta observación también la hizo Marco Vitruvio Políon (80-70 A.C - 15 A.C),
+hizo un extensivo análisis sobre estas cuestiones llegando a escribir el
+primer libro hasta donde se sepa &lt;code&gt;De Arquitectura&lt;&#x2F;code&gt;, una obra de 10 tomos que son
+el cimiento de la arquitectura moderna.&lt;&#x2F;p&gt;
+&lt;p&gt;Dentro de ella él determinó que los edificios tienen 3 cualidades en común, estas
+son:&lt;&#x2F;p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;code&gt;Firmitas&lt;&#x2F;code&gt; (Solidez. Elementos estructurales, materiales de construcción,
+terreno, Topografía)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;code&gt;Utilitas&lt;&#x2F;code&gt; (Utilidad. Organización espacial, cumplir con el programa
+arquitectónico, instalaciones, sustentabilidad)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;code&gt;Venustas&lt;&#x2F;code&gt; (Belleza. Expresiones formales)&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;p&gt;Y que para llegar a la perfección es que debe haber un equilibrio entre
+las 3.&lt;&#x2F;p&gt;
+&lt;p&gt;Fue gracias a Leon Battista Alberti que pudo ser difundida al mundo,
+imprimiéndola en 1486, gozando de una basta popularidad en el siglo XVI, tanto
+así que el mismísimo Leonardo Da Vinci hizo el Hombre de Vitruvio basado en
+ella, pero esa ya es otra historia..&lt;&#x2F;p&gt;
+&lt;picture&gt;
+  &lt;source srcset=&quot;https:&#x2F;&#x2F;sati.blog&#x2F;que-tienen-en-comun-las-construcciones&#x2F;vitruvian-man.jpg&quot; type=&quot;img&#x2F;jpg&quot; &#x2F;&gt;
+  &lt;img src=&quot;vitruvian-man.jpg&quot; alt=&quot;Representación de la entrega De arquitectura a Augustus&quot; width=&quot;320&quot; height=&quot;180&quot; &#x2F;&gt;
+&lt;&#x2F;picture&gt;
+</content>
+	</entry>
+</feed>

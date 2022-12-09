@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
+	<title>sati - ondas_sonoras</title>
+	<subtitle>Debemos tomar en cuenta cada dia de nuestras vidas.</subtitle>
+	<link href="https://sati.blog/tags/ondas-sonoras/atom.xml" rel="self" type="application/atom+xml"/>
+  <link href="https://sati.blog"/>
+	<generator uri="https://www.getzola.org/">Zola</generator>
+	<updated>2022-11-29T00:00:00+00:00</updated>
+	<id>https://sati.blog/tags/ondas-sonoras/atom.xml</id>
+	<entry xml:lang="es">
+		<title>Por qué mi voz grabada es tan rara que no la reconozco?</title>
+		<published>2022-11-29T00:00:00+00:00</published>
+		<updated>2022-11-29T00:00:00+00:00</updated>
+		<link rel="alternate" href="https://sati.blog/voz-grabada/" type="text/html"/>
+		<id>https://sati.blog/voz-grabada/</id>
+		<content type="html">&lt;p&gt;Es tu primer vídeo de Youtube, stream de Twitch, o mensaje de audio en Whatsapp
+y quedas horrorizado al no reconocer tu propia voz, mantén la calma que te
+explico.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;dentro-mio&quot;&gt;Dentro Mío&lt;&#x2F;h3&gt;
+&lt;picture&gt;
+  &lt;source srcset=&quot;https:&#x2F;&#x2F;sati.blog&#x2F;voz-grabada&#x2F;human-skull.jpg&quot; type=&quot;img&#x2F;jpg&quot; &#x2F;&gt;
+  &lt;img src=&quot;human-skull.jpg&quot; alt=&quot;Craneo Humano&quot; width=&quot;640&quot; height=&quot;480&quot; &#x2F;&gt;
+&lt;&#x2F;picture&gt;
+&lt;p&gt;Resulta que en tu interior, exactamente tu cráneo, actúa como una caja de
+resonancia (ej. tambor, guitarra), lo que provoca que durante toda tu vida
+hayas escuchado tu propia voz como mas grabe de lo que en realidad es, es por
+eso que al escuchar tu voz grabada te lleves la decepción de no tener la voz de
+locutor de radio sensual.&lt;&#x2F;p&gt;
+&lt;p&gt;Por otro lado si gustas del anime ten por seguro que tu voz suena como la de
+una waifu. Hay otra razón científica de por qué tu voz suena tan rara.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;ondas-sonoras&quot;&gt;Ondas sonoras&lt;&#x2F;h3&gt;
+&lt;picture&gt;
+  &lt;source srcset=&quot;https:&#x2F;&#x2F;sati.blog&#x2F;voz-grabada&#x2F;sound_frequency.png&quot; type=&quot;img&#x2F;png&quot; &#x2F;&gt;
+  &lt;img src=&quot;sound_frequency.png&quot; alt=&quot;Frecuencias del sonido y ultrasonido&quot; width=&quot;640&quot; height=&quot;480&quot; &#x2F;&gt;
+&lt;&#x2F;picture&gt;
+&lt;p&gt;Debemos entender que parte de las ondas sonoras que emitimos al hablar, es
+decir las ondas grabes, se disipan y no llegan a registrarse, &lt;code&gt;el ser humano emite ondas de aproximadamente de 300hz&lt;&#x2F;code&gt;. A eso hay que agregar el ruido que se
+mezcla al grabar audio, todo esto nos lleva a no reconocer nuestra propia voz.&lt;&#x2F;p&gt;
+</content>
+	</entry>
+</feed>
