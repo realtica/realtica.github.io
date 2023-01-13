@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
+	<title>sati - ciencia</title>
+	<subtitle>Debemos tomar en cuenta cada dia de nuestras vidas.</subtitle>
+	<link href="https://sati.blog/tags/ciencia/atom.xml" rel="self" type="application/atom+xml"/>
+  <link href="https://sati.blog"/>
+	<generator uri="https://www.getzola.org/">Zola</generator>
+	<updated>2022-12-05T00:00:00+00:00</updated>
+	<id>https://sati.blog/tags/ciencia/atom.xml</id>
+	<entry xml:lang="es">
+		<title>Por qué usamos jabón para lavarnos?</title>
+		<published>2022-12-05T00:00:00+00:00</published>
+		<updated>2022-12-05T00:00:00+00:00</updated>
+		<link rel="alternate" href="https://sati.blog/por-que-usamos-jabon-para-lavarnos/" type="text/html"/>
+		<id>https://sati.blog/por-que-usamos-jabon-para-lavarnos/</id>
+		<content type="html">&lt;p&gt;Casi siempre usamos jabón para lavarnos, ya que con solo agua, no parece ser
+suficiente pero sabes ¿por qué?&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;moleculas-similares&quot;&gt;Moléculas similares&lt;&#x2F;h3&gt;
+&lt;picture&gt;
+  &lt;source srcset=&quot;https:&#x2F;&#x2F;sati.blog&#x2F;por-que-usamos-jabon-para-lavarnos&#x2F;soap.jpg&quot; type=&quot;img&#x2F;jpg&quot; &#x2F;&gt;
+  &lt;img src=&quot;soap.jpg&quot; alt=&quot;Jabón&quot; width=&quot;640&quot; height=&quot;480&quot; &#x2F;&gt;
+&lt;&#x2F;picture&gt;
+&lt;p&gt;Lo más difícil de remover es la grasa ya que el agua y el aceite se repelen 
+y resulta que el jabón tiene moléculas similares a las del aceite, es así que
+gracias a su parecido el jabón puede adherirse fácilmente a la grasa, por otro
+lado el agua y el aceite se repelen, es por eso que resulta tan difícil quitar
+suciedad con contenido grasoso, sin embargo aun tenemos un aliado confiable, la
+adherencia del jabón y del aceite.&lt;&#x2F;p&gt;
+&lt;p&gt;¿Pero como es que el jabón atrae al agua?, pues de forma similar el jabón tiene
+un par de átomos con carga eléctrica que se asocian al agua. Es así que el
+jabón logra mezclar agua y aceite bastante bien y de esa forma se acaba con la
+mayoría de suciedad.&lt;&#x2F;p&gt;
+</content>
+	</entry>
+</feed>

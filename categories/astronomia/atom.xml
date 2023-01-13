@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
+	<title>sati - Astronomía</title>
+	<subtitle>Debemos tomar en cuenta cada dia de nuestras vidas.</subtitle>
+	<link href="https://sati.blog/categories/astronomia/atom.xml" rel="self" type="application/atom+xml"/>
+  <link href="https://sati.blog"/>
+	<generator uri="https://www.getzola.org/">Zola</generator>
+	<updated>2022-11-30T00:00:00+00:00</updated>
+	<id>https://sati.blog/categories/astronomia/atom.xml</id>
+	<entry xml:lang="es">
+		<title>Plutón el degradado</title>
+		<published>2022-11-30T00:00:00+00:00</published>
+		<updated>2022-11-30T00:00:00+00:00</updated>
+		<link rel="alternate" href="https://sati.blog/pluton-el-degradado/" type="text/html"/>
+		<id>https://sati.blog/pluton-el-degradado/</id>
+		<content type="html">&lt;p&gt;¿Te enseñaron en la escuela que los planetas del sistema solar son 9, pero no lo aceptas?&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;nuestro-querido-pluton&quot;&gt;Nuestro querido Plutón&lt;&#x2F;h3&gt;
+&lt;picture&gt;
+  &lt;source srcset=&quot;https:&#x2F;&#x2F;sati.blog&#x2F;pluton-el-degradado&#x2F;god_pluto.jpg&quot; type=&quot;img&#x2F;jpg&quot; &#x2F;&gt;
+  &lt;img src=&quot;god_pluto.jpg&quot; alt=&quot;Dios Plutón&quot; width=&quot;640&quot; height=&quot;480&quot; &#x2F;&gt;
+&lt;&#x2F;picture&gt;
+&lt;p&gt;Todos recitamos su nombre miles de veces y hasta le tomamos cariño,
+pero resulta que la comunidad de cientificos decidio matar a Plutón,
+personalmente me encantaba por la lejanía a la que se encontraba y por su nombre
+&lt;code&gt;Dios de los infiernos&lt;&#x2F;code&gt; de la mitología romana, luego por el 2006 nos enteramos de que Plutón ya no era un planeta,
+una completa decepción.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;clasificacion-de-planetas&quot;&gt;Clasificación de planetas&lt;&#x2F;h3&gt;
+&lt;picture&gt;
+  &lt;source srcset=&quot;https:&#x2F;&#x2F;sati.blog&#x2F;pluton-el-degradado&#x2F;dwarf_planets.png&quot; type=&quot;img&#x2F;png&quot; &#x2F;&gt;
+  &lt;img src=&quot;dwarf_planets.png&quot; alt=&quot;Planetas enanos&quot; width=&quot;640&quot; height=&quot;480&quot; &#x2F;&gt;
+&lt;&#x2F;picture&gt;
+&lt;p&gt;Ya desde el año 1996 que se descubren de forma masiva miles de cuerpos,
+es así que se inicia la controversia acerca de Plutón, ya que cada vez más y más planetas se acercaban a su tamaño.
+Y hasta el 24 de agosto del 2006 que se acaba la controversia y Plutón deja de ser uno de los 9 planetas del Sistema Planetario Solar.
+Así es, fue por el tamaño de los nuevos cuerpos descubiertos que Plutón pierde su nominación y queda en el olvido.&lt;&#x2F;p&gt;
+&lt;p&gt;En la actualidad la clasificación de los planetas es la que sigue:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Planetas (8)&lt;&#x2F;li&gt;
+&lt;li&gt;Planetas enanos (5) 
+&lt;ul&gt;
+&lt;li&gt;Planetas enanos potenciales(381)&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</content>
+	</entry>
+</feed>

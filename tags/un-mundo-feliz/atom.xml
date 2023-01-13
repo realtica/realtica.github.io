@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
+	<title>sati - un_mundo_feliz</title>
+	<subtitle>Debemos tomar en cuenta cada dia de nuestras vidas.</subtitle>
+	<link href="https://sati.blog/tags/un-mundo-feliz/atom.xml" rel="self" type="application/atom+xml"/>
+  <link href="https://sati.blog"/>
+	<generator uri="https://www.getzola.org/">Zola</generator>
+	<updated>2022-12-15T00:00:00+00:00</updated>
+	<id>https://sati.blog/tags/un-mundo-feliz/atom.xml</id>
+	<entry xml:lang="es">
+		<title>Diseño de genes</title>
+		<published>2022-12-15T00:00:00+00:00</published>
+		<updated>2022-12-15T00:00:00+00:00</updated>
+		<link rel="alternate" href="https://sati.blog/diseño-de-genes/" type="text/html"/>
+		<id>https://sati.blog/diseño-de-genes/</id>
+		<content type="html">&lt;p&gt;¿A quién no le gustaría tener hijos sanos?, pues gracias a la criba genética lo
+puedes lograr, es ¿moralmente correcto pedir más?&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;un-mundo-feliz&quot;&gt;Un mundo feliz&lt;&#x2F;h3&gt;
+&lt;picture&gt;
+  &lt;source srcset=&quot;https:&#x2F;&#x2F;sati.blog&#x2F;diseño-de-genes&#x2F;brave-new-world.jpg&quot; type=&quot;img&#x2F;jpg&quot; &#x2F;&gt;
+  &lt;img src=&quot;brave-new-world.jpg&quot; alt=&quot;Un mundo feliz&quot; width=&quot;640&quot; height=&quot;480&quot; &#x2F;&gt;
+&lt;&#x2F;picture&gt;
+&lt;p&gt;La novela &lt;code&gt;Un mundo feliz&lt;&#x2F;code&gt; (1932), nos mostraba un mundo distópico el cual se
+dividía en 5 castas y era el poder económico el que determinaba la superioridad
+física y mental de los individuos, un mundo donde todos quieren ser superiores,
+y al lograrlo se convierten en iguales..&lt;&#x2F;p&gt;
+&lt;p&gt;Ahora mismo es técnicamente posible construir ese mundo, sin embargo existen
+muchos problemas morales relacionados, esas personas perfectas, ¿Continúan
+siendo humanos?, ¿Que derechos y obligaciones tendrían?, la historia a
+demostrado que la búsqueda de la superioridad nunca resulta bien, a la mayoría
+les resulta grotesco deshumanizar personas, es por esos motivos que quizás nunca
+llegue a realizarse.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;criba-genetica&quot;&gt;Criba genética&lt;&#x2F;h3&gt;
+&lt;picture&gt;
+  &lt;source srcset=&quot;https:&#x2F;&#x2F;sati.blog&#x2F;diseño-de-genes&#x2F;gen.jpg&quot; type=&quot;img&#x2F;jpg&quot; &#x2F;&gt;
+  &lt;img src=&quot;gen.jpg&quot; alt=&quot;Gen&quot; width=&quot;640&quot; height=&quot;480&quot; &#x2F;&gt;
+&lt;&#x2F;picture&gt;
+&lt;p&gt;Muy por el contrario este tipo de prueba busca el bienestar general de la
+población, la detección oportuna de males congénitos ya es implementada y
+aplaudida por la mayoría, el filósofo australiano, Julian Savulescu, piensa que
+este cribado debería ser obligatorio en torno a las posibilidades de los padres.
+La Fecundación In Vitro al ser una elección de los padres debería acompañarse de
+un Diagnostico Genético Preimplantacional de forma &lt;strong&gt;obligatoria&lt;&#x2F;strong&gt;. Dice el
+filósofo. De esa forma se detectarían anomalías y defectos genéticos antes de
+tiempo.&lt;&#x2F;p&gt;
+</content>
+	</entry>
+</feed>

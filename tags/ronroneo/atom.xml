@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
+	<title>sati - ronroneo</title>
+	<subtitle>Debemos tomar en cuenta cada dia de nuestras vidas.</subtitle>
+	<link href="https://sati.blog/tags/ronroneo/atom.xml" rel="self" type="application/atom+xml"/>
+  <link href="https://sati.blog"/>
+	<generator uri="https://www.getzola.org/">Zola</generator>
+	<updated>2022-12-02T00:00:00+00:00</updated>
+	<id>https://sati.blog/tags/ronroneo/atom.xml</id>
+	<entry xml:lang="es">
+		<title>¿Por qué ronronean los gatos?</title>
+		<published>2022-12-02T00:00:00+00:00</published>
+		<updated>2022-12-02T00:00:00+00:00</updated>
+		<link rel="alternate" href="https://sati.blog/por-que-ronronean-los-gatos/" type="text/html"/>
+		<id>https://sati.blog/por-que-ronronean-los-gatos/</id>
+		<content type="html">&lt;p&gt;Considerados parte de nuestra familia desde que tenemos recuerdo, los gatos
+guardan misterios que intentan ser respondidos, un ronroneo es una demostración
+de afecto, ¿pero que más?&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;conociendo-al-micho&quot;&gt;Conociendo al micho&lt;&#x2F;h3&gt;
+&lt;picture&gt;
+  &lt;source srcset=&quot;https:&#x2F;&#x2F;sati.blog&#x2F;por-que-ronronean-los-gatos&#x2F;cat.jpg&quot; type=&quot;img&#x2F;jpg&quot; &#x2F;&gt;
+  &lt;img src=&quot;cat.jpg&quot; alt=&quot;Gato
+ronroneando&quot; width=&quot;640&quot; height=&quot;480&quot; &#x2F;&gt;
+&lt;&#x2F;picture&gt;
+&lt;p&gt;Emitir ronroneos durante varios minutos hasta horas en el caso de tener crías,
+demanda de mucha energía a nuestros queridos amos, es así, que lo más probable
+es que esa acción tenga una ventaja evolutiva. Aún así, no sabemos por ejemplo
+de donde provienen los ronroneos, ya que el debate sigue en pie si proviene del
+diafragma o no, al menos sabemos que lo hace al inhalar y al exhalar.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;satisfaccion-estres-salud&quot;&gt;Satisfacción, estrés, salud&lt;&#x2F;h3&gt;
+&lt;p&gt;Los gatos ronronean para demostrar satisfacción y estrés, así es, a veces el
+ronroneo es estridente y angustiante, también sabemos que el sonido que emiten
+es diferente al pedir comida.&lt;&#x2F;p&gt;
+&lt;p&gt;Una teoría asombrosa es que el ronroneo de los gatos sirve para la sanación del
+tejido oseo, hemos sido testigos de la asombrosa velocidad con la que se
+recuperan los gatos de las heridas y se sabe que se trata de las ondas de
+sonoras de 26hz las que los ayudan. También se cree que ronronean en momentos
+de no actividad como terapia acústica, para prepararse para una futura casería
+por ejemplo.&lt;&#x2F;p&gt;
+</content>
+	</entry>
+</feed>

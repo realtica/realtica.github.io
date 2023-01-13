@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
+	<title>sati - novios</title>
+	<subtitle>Debemos tomar en cuenta cada dia de nuestras vidas.</subtitle>
+	<link href="https://sati.blog/tags/novios/atom.xml" rel="self" type="application/atom+xml"/>
+  <link href="https://sati.blog"/>
+	<generator uri="https://www.getzola.org/">Zola</generator>
+	<updated>2022-12-07T00:00:00+00:00</updated>
+	<id>https://sati.blog/tags/novios/atom.xml</id>
+	<entry xml:lang="es">
+		<title>¿Por qué se pide la mano de la novia, y no la novia completa por ejemplo?</title>
+		<published>2022-12-07T00:00:00+00:00</published>
+		<updated>2022-12-07T00:00:00+00:00</updated>
+		<link rel="alternate" href="https://sati.blog/por-que-se-pide-la-mano-de-la-novia/" type="text/html"/>
+		<id>https://sati.blog/por-que-se-pide-la-mano-de-la-novia/</id>
+		<content type="html">&lt;p&gt;Es una costumbre milenaria en la mayoría del planeta llegada cierta etapa de
+nuestras vidas pedimos la mano de la novia, ¿pero, por qué?&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;patria-potestas&quot;&gt;Patria potestas&lt;&#x2F;h3&gt;
+&lt;picture&gt;
+  &lt;source srcset=&quot;https:&#x2F;&#x2F;sati.blog&#x2F;por-que-se-pide-la-mano-de-la-novia&#x2F;pater-familias.jpg&quot; type=&quot;img&#x2F;jpg&quot; &#x2F;&gt;
+  &lt;img src=&quot;pater-familias.jpg&quot; alt=&quot;Pater familias&quot; width=&quot;640&quot; height=&quot;480&quot; &#x2F;&gt;
+&lt;&#x2F;picture&gt;
+&lt;p&gt;En la antigua roma se instituyó este tipo de poder, el cual colocaba sobre los
+hombros de padre de familia (pater familias), toda la carga y responsabilidad, de el dependía la
+vida y la muerte de los hijos de la esposa y de los esclavos que poseía, desde
+luego esto se fue modificando a través del tiempo con lo que hoy en día se
+conoce como &lt;code&gt;patria potestad&lt;&#x2F;code&gt;, la cual le da a los padres de familia la 
+responsabilidad y el derecho de cuidar a sus hijos durante una etapa temprana,
+regularmente hasta los 18 años de edad.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;sub-manu&quot;&gt;Sub manu&lt;&#x2F;h3&gt;
+&lt;p&gt;Por otro lado todos los dependientes del pater familias se les consideraba &lt;em&gt;sub
+manu&lt;&#x2F;em&gt;, lo que quiere decir que estaban &lt;code&gt;bajo su mano&lt;&#x2F;code&gt; (bajo su protección),
+llegado el momento de contraer nupcias una mujer que estaba &lt;em&gt;sub manu&lt;&#x2F;em&gt; de su
+padre pasaba a estar &lt;em&gt;cum manu&lt;&#x2F;em&gt; de su esposo.&lt;&#x2F;p&gt;
+&lt;p&gt;¿Y que sucedía cuando un hijo decidía casarse?, pues nada, un hijo a esa edad ya
+debía poder cuidarse solo, y no era necesario que nadie cuidara de el, toda la
+preocupación estaba enfocada en las hijas.&lt;&#x2F;p&gt;
+&lt;p&gt;Existía otra opción para las novias, si por algún motivo se decidía que la novia
+no quede a merced de su esposo, podía celebrarse un matrimonio &lt;code&gt;sine manu&lt;&#x2F;code&gt;, en
+el cual la novia no rompía los lazos hereditarios de la familia de sangre y
+seguía bajo la tutela de su padre.&lt;&#x2F;p&gt;
+</content>
+	</entry>
+</feed>

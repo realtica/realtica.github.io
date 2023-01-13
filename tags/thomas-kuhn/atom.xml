@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
+	<title>sati - thomas_kuhn</title>
+	<subtitle>Debemos tomar en cuenta cada dia de nuestras vidas.</subtitle>
+	<link href="https://sati.blog/tags/thomas-kuhn/atom.xml" rel="self" type="application/atom+xml"/>
+  <link href="https://sati.blog"/>
+	<generator uri="https://www.getzola.org/">Zola</generator>
+	<updated>2022-11-26T00:00:00+00:00</updated>
+	<id>https://sati.blog/tags/thomas-kuhn/atom.xml</id>
+	<entry xml:lang="es">
+		<title>Paradigma de Kuhn</title>
+		<published>2022-11-26T00:00:00+00:00</published>
+		<updated>2022-11-26T00:00:00+00:00</updated>
+		<link rel="alternate" href="https://sati.blog/thomas-kuhn-paradigma/" type="text/html"/>
+		<id>https://sati.blog/thomas-kuhn-paradigma/</id>
+		<content type="html">&lt;p&gt;¿La ciencia avanza sin parar y es inmutable?, pues la publicación &lt;code&gt;La estructura de las revoluciones científicas&lt;&#x2F;code&gt; escrito por Thomas S. Kuhn(1962-1996) contesta
+esta pregunta.&lt;&#x2F;p&gt;
+&lt;p&gt;Hay que entender que el paradigma de Kuhn engloba a cualquier conjunto de
+conocimientos, por ejemplo, la medicina tradicional de cada pueblo, viene a ser
+reemplazada por la ciencia medica, la astrología por la astronomía, geocentrismo
+por heliocentrismo, radiestecia por estudios hidrogeológicos etc.&lt;&#x2F;p&gt;
+&lt;p&gt;Para Kuhn la ciencia no sigue un progreso que conduce indefectiblemente hacia la
+verdad, sino que por el contrario existen fases de avance y de retroceso.&lt;&#x2F;p&gt;
+&lt;p&gt;Es así que el paradigma tiene como unidad básica a las comunidades científicas,
+las que determinan por consenso su existencia y aceptación.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;cambio-de-paradigma-ciclo-de-kuhn&quot;&gt;Cambio de paradigma(Ciclo de Kuhn)&lt;&#x2F;h3&gt;
+&lt;picture&gt;
+  &lt;source srcset=&quot;https:&#x2F;&#x2F;sati.blog&#x2F;thomas-kuhn-paradigma&#x2F;thomas_kuhn_paradigma.png&quot; type=&quot;img&#x2F;png&quot; &#x2F;&gt;
+  &lt;img src=&quot;thomas_kuhn_paradigma.png&quot; alt=&quot;Ciclo de Kuhn&quot; width=&quot;640&quot; height=&quot;480&quot; &#x2F;&gt;
+&lt;&#x2F;picture&gt;
+&lt;p&gt;Este fenómeno se manifiesta cuando se hace evidente el numero de anomalías
+dentro de un paradigma, tras muchas pruebas rechazadas por el modelo se crean
+bandos dentro de la comunidad, las cuales generan una &lt;code&gt;revolucion cientifica&lt;&#x2F;code&gt;,
+es así que se va gestando un nuevo paradigma.&lt;&#x2F;p&gt;
+</content>
+	</entry>
+</feed>

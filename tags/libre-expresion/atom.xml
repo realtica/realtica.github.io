@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
+	<title>sati - libre_expresión</title>
+	<subtitle>Debemos tomar en cuenta cada dia de nuestras vidas.</subtitle>
+	<link href="https://sati.blog/tags/libre-expresion/atom.xml" rel="self" type="application/atom+xml"/>
+  <link href="https://sati.blog"/>
+	<generator uri="https://www.getzola.org/">Zola</generator>
+	<updated>2022-12-16T00:00:00+00:00</updated>
+	<id>https://sati.blog/tags/libre-expresion/atom.xml</id>
+	<entry xml:lang="es">
+		<title>Las convicciónes de Voltaire</title>
+		<published>2022-12-16T00:00:00+00:00</published>
+		<updated>2022-12-16T00:00:00+00:00</updated>
+		<link rel="alternate" href="https://sati.blog/las-convicciones-de-voltaire/" type="text/html"/>
+		<id>https://sati.blog/las-convicciones-de-voltaire/</id>
+		<content type="html">&lt;p&gt;En la actualidad al ver alguna entrevista observamos que las personas cuidan
+mucho lo que dicen y lo que no dicen, haciendo inclusive hasta aclaraciones de
+por qué dijeron tal o cuál palabra hasta de el punto de ya no querer expresar lo
+que realmente piensan.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;es-correcta-la-correccion-politica&quot;&gt;¿Es correcta la corrección política?&lt;&#x2F;h3&gt;
+&lt;picture&gt;
+  &lt;source srcset=&quot;https:&#x2F;&#x2F;sati.blog&#x2F;las-convicciones-de-voltaire&#x2F;voltaire.jpg&quot; type=&quot;img&#x2F;jpg&quot; &#x2F;&gt;
+  &lt;img src=&quot;voltaire.jpg&quot; alt=&quot;Voltaire&quot; width=&quot;640&quot; height=&quot;480&quot; &#x2F;&gt;
+&lt;&#x2F;picture&gt;
+&lt;p&gt;Insultar u ofender a alguien intencionalmente es hasta condenable por las leyes,
+sin embargo decir una opinión de algún tema en controversia, de algo que aún no
+esta determinado por la ciencia o por las leyes, no debería de ofender a nadie y
+más aún si se dijo sin ninguna mala intención.&lt;&#x2F;p&gt;
+&lt;p&gt;Aquí es donde la tolerancia debería de primar en ambos lados, tanto de ofensores
+como de los ofendidos.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;una-mente-estrecha&quot;&gt;Una mente estrecha&lt;&#x2F;h3&gt;
+&lt;picture&gt;
+  &lt;source srcset=&quot;https:&#x2F;&#x2F;sati.blog&#x2F;las-convicciones-de-voltaire&#x2F;censorship.png&quot; type=&quot;img&#x2F;png&quot; &#x2F;&gt;
+  &lt;img src=&quot;censorship.png&quot; alt=&quot;Censura&quot; width=&quot;640&quot; height=&quot;480&quot; &#x2F;&gt;
+&lt;&#x2F;picture&gt;
+&lt;p&gt;El filósofo y clasicista Allan Bloom escribió al respecto en su libro &lt;code&gt;El cierre de la mente moderna&lt;&#x2F;code&gt;, para Bloom los prejuicios son necesarios ya que son el
+punto de partida para determinar el estudio y la existencia de las cosas. Muy
+por el contrario cerrarse a pensar y a dudar sobre algún prejuicio, nos
+convierte en personas vacías sin pensamientos propios. Un prejuicio debe de
+existir para luego ser eliminado mediante el pensamiento crítico y la lógica.&lt;&#x2F;p&gt;
+&lt;p&gt;No se debería eliminar y menos prohibir los prejuicios, sino combatirlos
+personalmente utilizando el pensamiento crítico.&lt;&#x2F;p&gt;
+</content>
+	</entry>
+</feed>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
+	<title>sati - intestino_grueso</title>
+	<subtitle>Debemos tomar en cuenta cada dia de nuestras vidas.</subtitle>
+	<link href="https://sati.blog/tags/intestino-grueso/atom.xml" rel="self" type="application/atom+xml"/>
+  <link href="https://sati.blog"/>
+	<generator uri="https://www.getzola.org/">Zola</generator>
+	<updated>2022-12-01T00:00:00+00:00</updated>
+	<id>https://sati.blog/tags/intestino-grueso/atom.xml</id>
+	<entry xml:lang="es">
+		<title>¿Cual comida expulsamos al defecar?</title>
+		<published>2022-12-01T00:00:00+00:00</published>
+		<updated>2022-12-01T00:00:00+00:00</updated>
+		<link rel="alternate" href="https://sati.blog/comida-que-expulsamos-al-defecar/" type="text/html"/>
+		<id>https://sati.blog/comida-que-expulsamos-al-defecar/</id>
+		<content type="html">&lt;p&gt;Estas en el baño viendo tus vídeos y redes sociales favoritas, cuando te preguntas
+si expulsaras ese medio kilo de carne asada que acabas de comer esta mañana, sería excelente
+así quedaría espacio suficiente para el postre. Te sorprenderá la respuesta.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;una-carrera-que-no-todos-ganan&quot;&gt;Una carrera que no todos ganan&lt;&#x2F;h3&gt;
+&lt;picture&gt;
+  &lt;source srcset=&quot;https:&#x2F;&#x2F;sati.blog&#x2F;comida-que-expulsamos-al-defecar&#x2F;intestine.png&quot; type=&quot;img&#x2F;png&quot; &#x2F;&gt;
+  &lt;img src=&quot;intestine.png&quot; alt=&quot;Digestión humana&quot; width=&quot;640&quot; height=&quot;480&quot; &#x2F;&gt;
+&lt;&#x2F;picture&gt;
+&lt;p&gt;Volvamos a esta mañana cuando acompañado de unas papas comiste una rica ensalada
+y una medio kilo de carne asada, estos alimentos tienen un distinto tipo de digestión,
+al inicio las papas se disuelven con facilidad convirtiéndose en una pasta blanda,
+mientras tanto las ensalada de verduras y la carne parecen casi intactas, 
+pero aun no todo esta perdido. Los 3 alimentos llegan al intestino delgado
+desde el estomago entre 3 a 10hs, allí es donde se produce la mayor parte de la digestión.&lt;&#x2F;p&gt;
+&lt;p&gt;Llegados al intestino grueso la ensalada de verduras compuesta por fibras ya a sido digerida
+casi por completo, este tránsito intestinal dura entre 30 a 40hs pero puede prolongarse
+si no tienes una buena salud intestinal&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;code&gt;En conclusión te puede tomar entre 33 a 50hs dependiendo del tipo de alimento y tu salud intestinal.&lt;&#x2F;code&gt;
+Lo que quiere decir que expulsamos como mínimo la comida de hace mucho más de 1 día.&lt;&#x2F;p&gt;
+</content>
+	</entry>
+</feed>

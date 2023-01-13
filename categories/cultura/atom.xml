@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
+	<title>sati - Cultura</title>
+	<subtitle>Debemos tomar en cuenta cada dia de nuestras vidas.</subtitle>
+	<link href="https://sati.blog/categories/cultura/atom.xml" rel="self" type="application/atom+xml"/>
+  <link href="https://sati.blog"/>
+	<generator uri="https://www.getzola.org/">Zola</generator>
+	<updated>2023-01-13T00:00:00+00:00</updated>
+	<id>https://sati.blog/categories/cultura/atom.xml</id>
+	<entry xml:lang="es">
+		<title>Propio de los godos</title>
+		<published>2023-01-13T00:00:00+00:00</published>
+		<updated>2023-01-13T00:00:00+00:00</updated>
+		<link rel="alternate" href="https://sati.blog/propio-de-los-godos/" type="text/html"/>
+		<id>https://sati.blog/propio-de-los-godos/</id>
+		<content type="html">&lt;p&gt;¿Quién no vio a los locos Addams alguna vez en la vida?, son locos o
+simplemente rebeldes?, la cultura gótica siempre a dado de que hablar a lo largo
+del tiempo.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;una-era-de-oscuridad&quot;&gt;Una era de oscuridad&lt;&#x2F;h3&gt;
+&lt;picture&gt;
+  &lt;source srcset=&quot;https:&#x2F;&#x2F;sati.blog&#x2F;propio-de-los-godos&#x2F;saint-denis.jpg&quot; type=&quot;img&#x2F;jpg&quot; &#x2F;&gt;
+  &lt;img src=&quot;saint-denis.jpg&quot; alt=&quot;Templo de Saint-Denis&quot; width=&quot;640&quot; height=&quot;480&quot; &#x2F;&gt;
+&lt;&#x2F;picture&gt;
+&lt;p&gt;Aunque parezca contradictorio hasta el año 1144 que las edificaciones estaban en
+completa oscuridad, fue con el templo de Saint-Denis que nació el gótico,
+gracias al abad Suger, el cual ordeno específicamente que se hiciera un diseño
+basado en la luz, la cual representaba lo divino, el quería que Saint-Denis
+fuese distinto a lo que ya se conocía, los constructores entonces enfocaron sus
+esfuerzos en hacer la obra con rasgos de verticalidad e iluminación.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;lo-gotico-como-cultura&quot;&gt;Lo gótico como cultura&lt;&#x2F;h3&gt;
+&lt;picture&gt;
+  &lt;source srcset=&quot;https:&#x2F;&#x2F;sati.blog&#x2F;propio-de-los-godos&#x2F;merlina.jpg&quot; type=&quot;img&#x2F;jpg&quot; &#x2F;&gt;
+  &lt;img src=&quot;merlina.jpg&quot; alt=&quot;Merlina Addams&quot; width=&quot;640&quot; height=&quot;480&quot; &#x2F;&gt;
+&lt;&#x2F;picture&gt;
+&lt;p&gt;Bien entonces, lo gótico tiene origen en 1144 pero la denominación de esta
+palabra la hizo el pintor y arquitecto toscano Giorgio Vasari, sea dicho de paso
+que esta palabra es despectiva, haciendo alusión a la barbarie de los godos.&lt;&#x2F;p&gt;
+&lt;p&gt;Luego, ya en nuestros días esta palabra es nuevamente usada para denominar a las
+personas &amp;quot;salvajes, rebeldes, extrañas&amp;quot;.&lt;&#x2F;p&gt;
+</content>
+	</entry>
+</feed>
